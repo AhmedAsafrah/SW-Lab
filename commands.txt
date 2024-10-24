@@ -1,0 +1,10 @@
+
+
+git init 
+git add . 
+git commit -m "Assigment 1 Software Eng Lab" 
+
+go to github and make a new repo then copy that commands 
+
+git remote add origin https://github.com/AhmedAsafrah/SW-Lab.git
+git branch -M main
